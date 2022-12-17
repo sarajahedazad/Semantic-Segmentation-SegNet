@@ -8,7 +8,8 @@ https://arxiv.org/abs/1511.00561
 I have used the network architecture used in this paper:
 https://arxiv.org/abs/1505.07293
 
-I have used CamVid dataset for my project. Here are some links:
+I have used CamVid dataset for my project. Here are some links for the dataset:
+
 Ground Truth: https://s3.amazonaws.com/fast-ai-imagelocal/camvid.tgz
 Labeled Pictures: http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/data/LabeledApproved_full.zip
 Classes: http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/data/label_colors.txt
