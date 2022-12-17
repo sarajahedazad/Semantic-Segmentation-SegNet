@@ -1,6 +1,6 @@
 # Semantic Segmentation
 
-This is one of the first projects I have done for a graduate course named "deep learning with applications in computer vision and audio processing".
+This is one of the first projects I have done for a graduate course named "deep learning with applications in computer vision and audio processing". If I got back, I would make a lot of changes in the way I wrote this code. However, I'm still proud of it.
 
 This paper helped me through understading the concepts behind neural networks used for segmentation application:
 https://arxiv.org/abs/1511.00561
